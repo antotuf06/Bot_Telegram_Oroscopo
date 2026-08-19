@@ -1,0 +1,31 @@
+# --- Ambiente e Segreti (FONDAMENTALE: impedisce di caricare il token Telegram su GitHub) ---
+.env
+.env.*
+!.env.example
+
+# --- Ambienti Virtuali Python ---
+venv/
+env/
+.venv/
+ENV/
+
+# --- Cache e file compilati Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+
+# --- Log ed eventuali database ---
+*.log
+*.sqlite3
+*.db
+
+# --- Configurazioni Editor / IDE ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- File di sistema (Windows / macOS) ---
+Thumbs.db
+desktop.ini
+.DS_Store
