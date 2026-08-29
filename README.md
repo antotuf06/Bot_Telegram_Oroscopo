@@ -1,2 +1,2 @@
 # Bot_Telegram_Oroscopo
-Bot Telegram che restituisce l'oroscopo in base al segno zodiacale e alla data selezionata utilizzando HoroscopeAppAPI
+Telegram Bot that returns the zodiac sign horoscope based on the selected sign using HoroscopeAppAPI

@@ -1,4 +1,4 @@
-# --- Ambiente e Segreti (FONDAMENTALE: impedisce di caricare il token Telegram su GitHub) ---
+# --- Ambiente e Segreti
 .env
 .env.*
 !.env.example
